@@ -23,7 +23,9 @@ public class WeatherForecast
     public string? NewPropertynew { get; set; }
 
     public string? NewPropertynew1 { get; set; }
+
     
     public string? NewPropertynew2 { get; set; }
+
 
 }
